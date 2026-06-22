@@ -6,7 +6,7 @@ This app allows users to search for movies and view information such as posters,
 
 ## Preview
 
-![Demo](assets/demo.gif)
+![Demo](Rec0015-ezgif.com-video-to-gif-converter.gif)
 
 ## Features
 
